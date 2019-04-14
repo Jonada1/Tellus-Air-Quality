@@ -33,7 +33,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run eject`
 
-**Practicalities**
+## Practicalities
 Because it is a frontend application, the size of the file uploaded should not be high.
 The provided dataset, causes crash of the website. 
 Devide the file based in monthly measurement
