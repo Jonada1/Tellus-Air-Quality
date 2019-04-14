@@ -33,6 +33,11 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run eject`
 
+**Practicalities**
+Because it is a frontend application, the size of the file uploaded should not be high.
+The provided dataset, causes crash of the website. 
+Devide the file based in monthly measurement
+
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
 If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
